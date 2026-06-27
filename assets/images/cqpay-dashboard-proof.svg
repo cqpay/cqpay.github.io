@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="640" viewBox="0 0 980 640">
+  <defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop offset="0%" stop-color="#ffffff"/><stop offset="100%" stop-color="#eef3f9"/></linearGradient></defs>
+  <rect width="980" height="640" rx="34" fill="url(#bg)"/>
+  <rect x="34" y="34" width="912" height="74" rx="22" fill="#071528"/>
+  <text x="70" y="80" fill="#fff" font-family="Arial" font-size="24" font-weight="800">Merchant Dashboard & API Docs</text>
+  <rect x="792" y="54" width="114" height="34" rx="17" fill="#2c2510"/>
+  <text x="849" y="76" fill="#f4c95d" font-family="Arial" font-size="14" font-weight="800" text-anchor="middle">API Docs</text>
+  <rect x="42" y="132" width="198" height="420" rx="26" fill="#071528"/>
+  <g font-family="Arial" font-size="16" fill="#cbd5e1">
+    <text x="72" y="184">Dashboard</text><text x="72" y="232">Collection</text><text x="72" y="280">Payout</text><text x="72" y="328">Balance</text><text x="72" y="376">Callbacks</text><text x="72" y="424">API Documents</text>
+  </g>
+  <g font-family="Arial">
+    <rect x="270" y="132" width="204" height="112" rx="22" fill="#fff" stroke="#e2e8f0"/><text x="294" y="170" fill="#64748b" font-size="15">Today Collection</text><text x="294" y="214" fill="#071528" font-size="34" font-weight="900">₹8.42M</text>
+    <rect x="500" y="132" width="204" height="112" rx="22" fill="#fff" stroke="#e2e8f0"/><text x="524" y="170" fill="#64748b" font-size="15">Today Payout</text><text x="524" y="214" fill="#071528" font-size="34" font-weight="900">₹6.93M</text>
+    <rect x="730" y="132" width="206" height="112" rx="22" fill="#f8ecd0"/><text x="754" y="170" fill="#8a6200" font-size="15">Success Rate</text><text x="754" y="214" fill="#071528" font-size="34" font-weight="900">67.8%</text>
+  </g>
+  <rect x="270" y="276" width="666" height="276" rx="26" fill="#fff" stroke="#e2e8f0"/>
+  <g font-family="Arial" font-size="15">
+    <text x="298" y="322" fill="#64748b" font-weight="800">Order</text><text x="468" y="322" fill="#64748b" font-weight="800">Type</text><text x="590" y="322" fill="#64748b" font-weight="800">Amount</text><text x="720" y="322" fill="#64748b" font-weight="800">Status</text><text x="836" y="322" fill="#64748b" font-weight="800">Callback</text>
+    <text x="298" y="372" fill="#0f172a">CQ****9012</text><text x="468" y="372" fill="#0f172a">UPI</text><text x="590" y="372" fill="#0f172a">₹3,000</text><text x="720" y="372" fill="#16a34a" font-weight="800">Success</text><text x="836" y="372" fill="#16a34a">OK</text>
+    <text x="298" y="422" fill="#0f172a">CQ****9048</text><text x="468" y="422" fill="#0f172a">Card</text><text x="590" y="422" fill="#0f172a">₹7,500</text><text x="720" y="422" fill="#16a34a" font-weight="800">Success</text><text x="836" y="422" fill="#16a34a">OK</text>
+    <text x="298" y="472" fill="#0f172a">CQ****9105</text><text x="468" y="472" fill="#0f172a">Payout</text><text x="590" y="472" fill="#0f172a">₹2,100</text><text x="720" y="472" fill="#16a34a" font-weight="800">Done</text><text x="836" y="472" fill="#16a34a">OK</text>
+  </g>
+  <text x="42" y="612" fill="#64748b" font-family="Arial" font-size="15">Demo screenshot placeholder — replace with real merchant dashboard screenshot.</text>
+</svg>

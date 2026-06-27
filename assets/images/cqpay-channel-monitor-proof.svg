@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="640" viewBox="0 0 980 640">
+  <defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop offset="0%" stop-color="#ffffff"/><stop offset="100%" stop-color="#eef3f9"/></linearGradient></defs>
+  <rect width="980" height="640" rx="34" fill="url(#bg)"/>
+  <rect x="34" y="34" width="912" height="74" rx="22" fill="#071528"/>
+  <text x="70" y="80" fill="#fff" font-family="Arial" font-size="24" font-weight="800">Channel Monitor</text>
+  <rect x="778" y="54" width="128" height="34" rx="17" fill="#2c2510"/>
+  <text x="842" y="76" fill="#f4c95d" font-family="Arial" font-size="14" font-weight="800" text-anchor="middle">DEMO</text>
+  <text x="70" y="124" fill="#64748b" font-family="Arial" font-size="15">Real-time channel health and availability</text>
+  <g>
+    <rect x="42" y="138" width="282" height="124" rx="24" fill="#fff" stroke="#e2e8f0"/>
+    <text x="72" y="178" fill="#64748b" font-family="Arial" font-size="16">UPI</text>
+    <text x="72" y="226" fill="#071528" font-family="Arial" font-size="38" font-weight="900">Active</text>
+    <rect x="350" y="138" width="282" height="124" rx="24" fill="#fff" stroke="#e2e8f0"/>
+    <text x="380" y="178" fill="#64748b" font-family="Arial" font-size="16">Card</text>
+    <text x="380" y="226" fill="#071528" font-family="Arial" font-size="38" font-weight="900">Active</text>
+    <rect x="658" y="138" width="282" height="124" rx="24" fill="#fff" stroke="#e2e8f0"/>
+    <text x="688" y="178" fill="#64748b" font-family="Arial" font-size="16">Payout</text>
+    <text x="688" y="226" fill="#071528" font-family="Arial" font-size="38" font-weight="900">Healthy</text></g>
+  <rect x="42" y="300" width="894" height="270" rx="26" fill="#fff" stroke="#e2e8f0"/>
+  <g><text x="70" y="346" fill="#64748b" font-family="Arial" font-size="15" font-weight="800">Channel</text><text x="250" y="346" fill="#64748b" font-family="Arial" font-size="15" font-weight="800">Type</text><text x="420" y="346" fill="#64748b" font-family="Arial" font-size="15" font-weight="800">Health</text><text x="590" y="346" fill="#64748b" font-family="Arial" font-size="15" font-weight="800">Delay</text><text x="760" y="346" fill="#64748b" font-family="Arial" font-size="15" font-weight="800">Status</text><text x="70" y="398" fill="#0f172a" font-family="Arial" font-size="15">UPI-A</text><text x="250" y="398" fill="#0f172a" font-family="Arial" font-size="15">Collection</text><text x="420" y="398" fill="#0f172a" font-family="Arial" font-size="15">98%</text><text x="590" y="398" fill="#0f172a" font-family="Arial" font-size="15">1.2s</text><text x="760" y="398" fill="#16a34a" font-family="Arial" font-size="15" font-weight="800">Active</text><text x="70" y="450" fill="#0f172a" font-family="Arial" font-size="15">CARD-B</text><text x="250" y="450" fill="#0f172a" font-family="Arial" font-size="15">Collection</text><text x="420" y="450" fill="#0f172a" font-family="Arial" font-size="15">95%</text><text x="590" y="450" fill="#0f172a" font-family="Arial" font-size="15">1.8s</text><text x="760" y="450" fill="#16a34a" font-family="Arial" font-size="15" font-weight="800">Active</text><text x="70" y="502" fill="#0f172a" font-family="Arial" font-size="15">PY-C</text><text x="250" y="502" fill="#0f172a" font-family="Arial" font-size="15">Payout</text><text x="420" y="502" fill="#0f172a" font-family="Arial" font-size="15">99%</text><text x="590" y="502" fill="#0f172a" font-family="Arial" font-size="15">38s</text><text x="760" y="502" fill="#16a34a" font-family="Arial" font-size="15" font-weight="800">Healthy</text></g>
+  <text x="42" y="612" fill="#64748b" font-family="Arial" font-size="15">Demo placeholder — replace with real CQPay screenshot before official launch.</text>
+</svg>

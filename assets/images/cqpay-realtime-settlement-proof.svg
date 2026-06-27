@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="640" viewBox="0 0 980 640">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#eef3f9"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f4c95d"/>
+      <stop offset="100%" stop-color="#d9a52f"/>
+    </linearGradient>
+  </defs>
+  <rect width="980" height="640" rx="34" fill="url(#bg)"/>
+  <rect x="34" y="34" width="912" height="74" rx="22" fill="#071528"/>
+  <text x="70" y="80" fill="#fff" font-family="Arial" font-size="24" font-weight="800">Real-time Settlement Dashboard</text>
+  <rect x="778" y="54" width="128" height="34" rx="17" fill="#153622"/>
+  <text x="842" y="76" fill="#86efac" font-family="Arial" font-size="14" font-weight="800" text-anchor="middle">No D1 Wait</text>
+
+  <g font-family="Arial">
+    <rect x="42" y="138" width="270" height="124" rx="24" fill="#fff" stroke="#e2e8f0"/>
+    <text x="72" y="178" fill="#64748b" font-size="16">Real-time Balance</text>
+    <text x="72" y="226" fill="#071528" font-size="42" font-weight="900">₹12.8M</text>
+
+    <rect x="354" y="138" width="270" height="124" rx="24" fill="#fff" stroke="#e2e8f0"/>
+    <text x="384" y="178" fill="#64748b" font-size="16">Settleable Today</text>
+    <text x="384" y="226" fill="#071528" font-size="42" font-weight="900">₹9.6M</text>
+
+    <rect x="666" y="138" width="270" height="124" rx="24" fill="url(#gold)"/>
+    <text x="696" y="178" fill="#4d3500" font-size="16">Settlement Mode</text>
+    <text x="696" y="226" fill="#071528" font-size="38" font-weight="900">Real-time</text>
+  </g>
+
+  <rect x="42" y="300" width="894" height="270" rx="26" fill="#fff" stroke="#e2e8f0"/>
+  <g font-family="Arial" font-size="15">
+    <text x="70" y="346" fill="#64748b" font-weight="800">Time</text>
+    <text x="226" y="346" fill="#64748b" font-weight="800">Type</text>
+    <text x="386" y="346" fill="#64748b" font-weight="800">Amount</text>
+    <text x="560" y="346" fill="#64748b" font-weight="800">Balance</text>
+    <text x="760" y="346" fill="#64748b" font-weight="800">Status</text>
+
+    <text x="70" y="398" fill="#0f172a">12:30:49</text><text x="226" y="398" fill="#0f172a">Collection</text><text x="386" y="398" fill="#0f172a">₹3,000</text><text x="560" y="398" fill="#0f172a">₹12.41M</text><text x="760" y="398" fill="#16a34a" font-weight="800">Updated</text>
+    <text x="70" y="450" fill="#0f172a">12:31:39</text><text x="226" y="450" fill="#0f172a">Payout</text><text x="386" y="450" fill="#0f172a">₹2,800</text><text x="560" y="450" fill="#0f172a">₹12.40M</text><text x="760" y="450" fill="#16a34a" font-weight="800">Settled</text>
+    <text x="70" y="502" fill="#0f172a">12:33:02</text><text x="226" y="502" fill="#0f172a">Collection</text><text x="386" y="502" fill="#0f172a">₹9,500</text><text x="560" y="502" fill="#0f172a">₹12.81M</text><text x="760" y="502" fill="#16a34a" font-weight="800">Updated</text>
+  </g>
+
+  <text x="42" y="612" fill="#64748b" font-family="Arial" font-size="15">Demo placeholder — replace with real settlement dashboard screenshot before official launch.</text>
+</svg>

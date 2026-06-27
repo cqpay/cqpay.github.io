@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="640" viewBox="0 0 980 640">
+  <defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop offset="0%" stop-color="#ffffff"/><stop offset="100%" stop-color="#eef3f9"/></linearGradient></defs>
+  <rect width="980" height="640" rx="34" fill="url(#bg)"/>
+  <rect x="34" y="34" width="912" height="74" rx="22" fill="#071528"/>
+  <text x="70" y="80" fill="#fff" font-family="Arial" font-size="24" font-weight="800">Order List Report</text>
+  <rect x="778" y="54" width="128" height="34" rx="17" fill="#2c2510"/>
+  <text x="842" y="76" fill="#f4c95d" font-family="Arial" font-size="14" font-weight="800" text-anchor="middle">DEMO</text>
+  <text x="70" y="124" fill="#64748b" font-family="Arial" font-size="15">Collection and payout order status preview</text>
+  <g>
+    <rect x="42" y="138" width="282" height="124" rx="24" fill="#fff" stroke="#e2e8f0"/>
+    <text x="72" y="178" fill="#64748b" font-family="Arial" font-size="16">Today Orders</text>
+    <text x="72" y="226" fill="#071528" font-family="Arial" font-size="38" font-weight="900">18,420</text>
+    <rect x="350" y="138" width="282" height="124" rx="24" fill="#fff" stroke="#e2e8f0"/>
+    <text x="380" y="178" fill="#64748b" font-family="Arial" font-size="16">Success</text>
+    <text x="380" y="226" fill="#071528" font-family="Arial" font-size="38" font-weight="900">67.8%</text>
+    <rect x="658" y="138" width="282" height="124" rx="24" fill="#fff" stroke="#e2e8f0"/>
+    <text x="688" y="178" fill="#64748b" font-family="Arial" font-size="16">Callback</text>
+    <text x="688" y="226" fill="#071528" font-family="Arial" font-size="38" font-weight="900">99.2%</text></g>
+  <rect x="42" y="300" width="894" height="270" rx="26" fill="#fff" stroke="#e2e8f0"/>
+  <g><text x="70" y="346" fill="#64748b" font-family="Arial" font-size="15" font-weight="800">Order</text><text x="250" y="346" fill="#64748b" font-family="Arial" font-size="15" font-weight="800">Method</text><text x="420" y="346" fill="#64748b" font-family="Arial" font-size="15" font-weight="800">Amount</text><text x="590" y="346" fill="#64748b" font-family="Arial" font-size="15" font-weight="800">Status</text><text x="760" y="346" fill="#64748b" font-family="Arial" font-size="15" font-weight="800">Callback</text><text x="70" y="398" fill="#0f172a" font-family="Arial" font-size="15">CQ****9012</text><text x="250" y="398" fill="#0f172a" font-family="Arial" font-size="15">UPI</text><text x="420" y="398" fill="#0f172a" font-family="Arial" font-size="15">₹3,000</text><text x="590" y="398" fill="#16a34a" font-family="Arial" font-size="15" font-weight="800">Success</text><text x="760" y="398" fill="#16a34a" font-family="Arial" font-size="15" font-weight="800">OK</text><text x="70" y="450" fill="#0f172a" font-family="Arial" font-size="15">CQ****9048</text><text x="250" y="450" fill="#0f172a" font-family="Arial" font-size="15">Card</text><text x="420" y="450" fill="#0f172a" font-family="Arial" font-size="15">₹7,500</text><text x="590" y="450" fill="#16a34a" font-family="Arial" font-size="15" font-weight="800">Success</text><text x="760" y="450" fill="#16a34a" font-family="Arial" font-size="15" font-weight="800">OK</text><text x="70" y="502" fill="#0f172a" font-family="Arial" font-size="15">CQ****9105</text><text x="250" y="502" fill="#0f172a" font-family="Arial" font-size="15">Payout</text><text x="420" y="502" fill="#0f172a" font-family="Arial" font-size="15">₹2,100</text><text x="590" y="502" fill="#16a34a" font-family="Arial" font-size="15" font-weight="800">Done</text><text x="760" y="502" fill="#16a34a" font-family="Arial" font-size="15" font-weight="800">OK</text></g>
+  <text x="42" y="612" fill="#64748b" font-family="Arial" font-size="15">Demo placeholder — replace with real CQPay screenshot before official launch.</text>
+</svg>

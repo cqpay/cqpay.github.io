@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="640" viewBox="0 0 980 640">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop offset="0%" stop-color="#ffffff"/><stop offset="100%" stop-color="#eef3f9"/></linearGradient>
+    <linearGradient id="area" x1="0" x2="0" y1="0" y2="1"><stop offset="0%" stop-color="#d9a52f" stop-opacity="0.34"/><stop offset="100%" stop-color="#d9a52f" stop-opacity="0.03"/></linearGradient>
+  </defs>
+  <rect width="980" height="640" rx="34" fill="url(#bg)"/>
+  <rect x="34" y="34" width="912" height="74" rx="22" fill="#071528"/>
+  <text x="70" y="80" fill="#fff" font-family="Arial" font-size="24" font-weight="800">Collection Success Rate Report</text>
+  <rect x="780" y="54" width="126" height="34" rx="17" fill="#153622"/>
+  <text x="843" y="76" fill="#86efac" font-family="Arial" font-size="14" font-weight="800" text-anchor="middle">Stable</text>
+  <g font-family="Arial">
+    <rect x="42" y="138" width="270" height="124" rx="24" fill="#fff" stroke="#e2e8f0"/>
+    <text x="72" y="178" fill="#64748b" font-size="16">Daily Overall</text>
+    <text x="72" y="226" fill="#071528" font-size="46" font-weight="900">60%+</text>
+    <rect x="354" y="138" width="270" height="124" rx="24" fill="#fff" stroke="#e2e8f0"/>
+    <text x="384" y="178" fill="#64748b" font-size="16">Premium Gaming</text>
+    <text x="384" y="226" fill="#071528" font-size="46" font-weight="900">75%+</text>
+    <rect x="666" y="138" width="270" height="124" rx="24" fill="#f8ecd0"/>
+    <text x="696" y="178" fill="#8a6200" font-size="16">Channel Status</text>
+    <text x="696" y="226" fill="#071528" font-size="38" font-weight="900">Running</text>
+  </g>
+  <rect x="42" y="300" width="894" height="270" rx="26" fill="#fff" stroke="#e2e8f0"/>
+  <g opacity="0.34" stroke="#cbd5e1"><path d="M80 358H900M80 414H900M80 470H900M80 526H900"/><path d="M190 332V544M340 332V544M490 332V544M640 332V544M790 332V544"/></g>
+  <path d="M80 518 C140 478 188 492 250 438 C314 382 362 414 424 372 C488 326 542 370 606 330 C668 290 726 312 782 276 C834 244 876 256 900 238 L900 544 L80 544 Z" fill="url(#area)"/>
+  <path d="M80 518 C140 478 188 492 250 438 C314 382 362 414 424 372 C488 326 542 370 606 330 C668 290 726 312 782 276 C834 244 876 256 900 238" fill="none" stroke="#d9a52f" stroke-width="7" stroke-linecap="round"/>
+  <text x="42" y="612" fill="#64748b" font-family="Arial" font-size="15">Demo screenshot placeholder — replace with real success rate screenshot.</text>
+</svg>
