@@ -46,7 +46,10 @@ function applyLanguage(lang) {
   document.body.classList.toggle("lang-en", isEn);
 
   const btn = document.getElementById("langBtn");
-  if (btn) btn.textContent = isEn ? "中文" : "EN";
+  if (btn) {
+    btn.textContent = isEn ? "中文" : "EN";
+    btn.setAttribute("aria-label", isEn ? "切换到中文" : "Switch to English");
+  }
 
   document.documentElement.lang = isEn ? "en" : "zh-CN";
 
